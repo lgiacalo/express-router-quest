@@ -1,5 +1,13 @@
 # Express Router quest
 
+# Challenge
+
+![tags](./img/router_tags.png)
+
+![tags_posts](./img/router_tagId_posts.png)
+
+![posts](./img/router_verif_posts_tags.png)
+
 ## Get it
 
 Clone the repo and install the dependencies:
